@@ -1,2 +1,2 @@
 # AdCoderPractice
-読んで字のごとく
+Adcoderの練習問題を格納していく
